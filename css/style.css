@@ -1,0 +1,197 @@
+body {
+	font-family: 'Merriweather', serif;
+
+}
+/* 1st section css start */
+.background-img {
+	background-image: url(../img/homepage.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+header {
+	padding-top: 13px;
+}
+.nav-item {
+	padding-top: 8px;
+}
+.nav-item span {
+	padding-left: 43px;
+}
+.nav-item {
+    color: white;
+ 
+    padding: 7px 11px;
+}
+.main-content {
+}
+.color {
+	height: 94px;
+	width: 434px;
+	background: #383937;
+	text-align: center;
+	padding: 25px 0px;
+	margin-top: 134px;
+	margin-bottom: 30px;
+}
+
+.color h2 {color: #fff;font-size: 28px;text-align: center;padding: 6px;}
+
+.main-content p {
+
+}
+.main-content span {
+	
+border-bottom: 2px solid #b5afb0;
+	
+display: block;
+	
+width: 89px;
+	
+margin: 14px 14px;
+	
+margin-bottom: 40px;
+}
+
+.main-content button {
+    margin-top: 60px;
+    margin-right: 320px;
+    color: #fff;
+    background: none;
+    text-align: center;
+    border: 2px solid #fff;
+    margin-bottom: 280px;
+} 
+/* 1st section  css end */
+
+/* 2nd section css start */
+
+.sec-two {
+background-color: #f6f6f6;
+}
+
+.content-one {
+padding-top: 209px;
+padding-bottom: 118px;
+}
+
+.content-one h2 {
+	
+}
+
+.content-one span {
+	
+display: block;
+	
+border-bottom: 2px solid #000000;
+	
+width: 25px;
+	
+margin-top: 40px;
+	
+margin-bottom: 60px;
+}
+
+.content-one p {
+	
+}
+
+.content-two {
+	padding-top: 170px;
+}
+.content-two img {
+}
+/* 2nd section css end */
+
+/* 3rd section css start */
+
+
+.section-three {
+	background-color:#28282e;
+	padding: 130px;
+}
+
+.sec-three  {
+
+}
+
+.sec-three h2 {
+	
+color: white;
+	
+padding-bottom: 20px;
+}
+
+.sec-three span {
+	
+display: block;
+	
+border-bottom: 2px solid #fff;
+	
+width: 70px;
+	
+padding-bottom: 57px;
+}
+.three-cont {
+
+}
+.three-cont p {
+
+color: #fff;
+
+padding-top: 57px;
+}
+.three-img {
+
+margin-left: 200px;
+}
+
+.section-three button {
+	
+color: #fff;
+	
+border: 1px solid;
+	
+height: 40px;
+	
+width: 140px;
+}
+
+/* 3rd section css end */
+
+figure {
+
+background: #ef4035;
+    height: 110px;
+}
+figure p {
+    text-align: center;
+    padding-top: 46px;
+    color: #fff;
+}
+
+
+/* media quiry */
+
+/* mobile device */
+@media (min-width: 320px) and (max-width: 500px) {
+
+
+}
+
+
+/* small device */
+@media (min-width: 501px) and (max-width: 768px) {
+
+
+/* medium device */
+
+@media (min-width: 769px) and (max-width: 1200px) {
+
+}
+
+/* larg device */
+@media (min-width: 1201px) {
+
+
+}
+

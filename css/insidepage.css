@@ -1,0 +1,110 @@
+body {
+	font-family: 'Merriweather', serif; }
+
+.back-color {
+	background-color: #fff;
+}
+header {
+	padding-top: 13px;
+}
+.img-logo {
+
+padding-top: 65px;
+}
+.nav-item {
+	padding-top: 8px;
+}
+.nav-item span {
+	padding-left: 43px;
+}
+.nav-item {
+    color: #0e0e0e;
+    padding: 5px 15px;
+    margin-top: 32px;
+}
+.back-color span {
+    border-bottom: 10px solid #e4e4e4;
+    display: block;
+    padding-top: 28px;
+    margin-bottom: 60px;
+}
+/* concat us css */
+.row-one {
+
+}
+
+.row-one h2 {
+	
+}
+
+
+.row-one p {
+	
+}
+
+.row-two {
+
+
+}
+
+.row-two img {
+	height: 70%;
+    width: 100%;
+
+	
+}
+.row-two p {
+
+	
+}
+
+
+.col-md-6 {
+    margin-bottom: 70px;
+}
+/* 3rd section css end */
+
+figure {
+
+background: #ef4035;
+    height: 110px;
+}
+figure p {
+    text-align: center;
+    padding-top: 46px;
+    color: #fff;
+}
+
+
+
+/* media quiry */
+
+
+
+
+
+
+
+/* mobile device */
+@media (min-width: 320px) and (max-width: 500px) {
+
+
+}
+
+
+/* small device */
+@media (min-width: 501px) and (max-width: 768px) {
+
+
+/* medium device */
+
+@media (min-width: 769px) and (max-width: 1200px) {
+
+}
+
+/* larg device */
+@media (min-width: 1201px) {
+
+
+}
+
